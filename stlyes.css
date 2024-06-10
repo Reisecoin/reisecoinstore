@@ -33,7 +33,7 @@ nav ul li a {
 }
 
 .banner {
-    background: url('banner.jpg') no-repeat center center;
+    background: url('images/Banner.jpg') no-repeat center center;
     background-size: cover;
     color: white;
     text-align: center;
